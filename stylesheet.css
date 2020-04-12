@@ -196,3 +196,6 @@ footer {
 .menu-icon{
   display:none;
 }
+.clear{
+  clear: left;
+}
